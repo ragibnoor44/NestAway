@@ -1,0 +1,25 @@
+{
+  "name": "nestaway-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ragibnoor44/NestAway.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ragibnoor44/NestAway/issues"
+  },
+  "homepage": "https://github.com/ragibnoor44/NestAway#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.8.0"
+  }
+}
